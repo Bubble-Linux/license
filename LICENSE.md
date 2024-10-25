@@ -1,7 +1,7 @@
 # We All Eat Together
 Copyright (c) 2024 Daniel Corbe 
 
-[![Linktree](https://img.shields.io/badge/Connect-Linktree-green?style=for-the-badge)](https://linktr.ee/YOURNAME)
+[![Linktree](https://img.shields.io/badge/Connect-Linktree-green?style=for-the-badge)](https://linktr.ee/dcorbe)
 
 License Version: 1.0
 
