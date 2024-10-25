@@ -2,9 +2,9 @@
 #
 # This is free software.  You may redistribute copies of it under the following terms:
 #
-# Freedom to use: You are free to use, copy, modify and distribute the software for any purpose.
+# Freedom to Use: You are free to use, copy, modify and distribute the software for any purpose.
 # Source Code: You have the right to access the source code.
-# Relicensing You may freely relicense the software under any OSI-approved license.
+# Relicensing: You may freely relicense the software under any OSI-approved license.
 # Attribution: If you distribute copies of the software or derivative works, you must preserve this notice.
 #
 # While this software is free to use, modify, and distribute, the author enourages users to support development through
