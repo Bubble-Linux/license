@@ -6,6 +6,7 @@
 # Source Code: You have the right to access the source code.
 # Relicensing: You may freely relicense the software under any OSI-approved license.
 # Attribution: If you distribute copies of the software or derivative works, you must preserve this notice.
+# Donations: Downstream forks may repurpose donation links to support their own development efforts.
 #
 # While this software is free to use, modify, and distribute, the author enourages users to support development through
 # donations.  Contributions help fund ongoing development, maintenance and feature enhancements.  If you find this
