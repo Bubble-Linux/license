@@ -15,4 +15,7 @@
  * Support me on Patreon: https://www.patreon.com/dcorbe
  * Buy me a cup of Coffee: https://ko-fi.com/dcorbe
  * Connect with me: https://linktr.ee/dcorbe
+ *
+ * This software is provided "as-is," without any express or implied warranty. In no event shall the authors be liable
+ * for any damages arising from the use of this software.
  */
